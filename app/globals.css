@@ -1,0 +1,220 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%; /* White */
+    --foreground: 222.2 84% 4.9%; /* Dark Gray for text */
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 200 80% 50%; /* Industrial Blue - Example: hsl(200, 80%, 50%) */
+    --primary-foreground: 0 0% 100%; /* White */
+
+    --secondary: 210 40% 96.1%; /* Light Gray - Example: hsl(210, 40%, 96.1%) */
+    --secondary-foreground: 222.2 47.4% 11.2%; /* Dark Gray */
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 195 75% 85%; /* Lighter Industrial Blue for accents - Example: hsl(195, 75%, 85%) */
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 214.3 31.8% 91.4%; /* Medium Gray */
+    --input: 214.3 31.8% 91.4%;
+    --ring: 200 80% 50%; /* Industrial Blue for focus rings */
+
+    --radius: 0.5rem;
+
+    /* Custom colors */
+    --industrial-blue: 200 80% 50%; /* #33a1de */
+    --light-gray: 210 40% 96.1%; /* #f0f4f8 */
+    --medium-gray: 214.3 31.8% 91.4%; /* #e5e7eb */
+    --dark-gray-text: 222.2 84% 4.9%; /* #0f172a */
+  }
+
+  /* .dark class will not be used as dark mode is disabled */
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    /* Ensure smooth scrolling behavior */
+    scroll-behavior: smooth;
+    /* Prevent scroll restoration on page reload */
+    scroll-behavior: auto;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    /* Ensure body starts at top */
+    scroll-behavior: auto;
+  }
+
+  /* Ensure all pages start from top */
+  html,
+  body {
+    scroll-behavior: auto !important;
+  }
+
+  /* Override any smooth scroll on initial load */
+  .page-transition {
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Custom Tailwind utilities if needed */
+@layer utilities {
+  .text-industrial-blue {
+    color: hsl(var(--industrial-blue));
+  }
+  .bg-industrial-blue {
+    background-color: hsl(var(--industrial-blue));
+  }
+  .border-industrial-blue {
+    border-color: hsl(var(--industrial-blue));
+  }
+  .bg-light-gray {
+    background-color: hsl(var(--light-gray));
+  }
+  .border-medium-gray {
+    border-color: hsl(var(--medium-gray));
+  }
+  .text-dark-gray-text {
+    color: hsl(var(--dark-gray-text));
+  }
+
+  /* Utility class to force scroll to top */
+  .scroll-to-top {
+    scroll-behavior: auto !important;
+  }
+
+  /* Navigation specific utilities */
+  .nav-item-hover {
+    @apply transition-colors duration-200 hover:text-industrial-blue hover:bg-gray-50;
+  }
+
+  .nav-item-active {
+    @apply text-industrial-blue font-semibold bg-industrial-blue/10;
+  }
+
+  /* Hero title responsive utilities */
+  .hero-title-responsive {
+    @apply text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl;
+  }
+
+  .hero-subtitle-responsive {
+    @apply text-2xl sm:text-3xl md:text-4xl lg:text-5xl;
+  }
+
+  /* Typography enhancements */
+  .text-display {
+    letter-spacing: -0.025em;
+    line-height: 1.1;
+  }
+
+  .text-display-tight {
+    letter-spacing: -0.05em;
+    line-height: 0.95;
+  }
+
+  /* Language switcher specific styles */
+  .language-indicator {
+    @apply text-sm font-medium text-gray-700 bg-gray-100 px-2 py-1 rounded-md;
+  }
+
+  .language-indicator-active {
+    @apply bg-industrial-blue text-white;
+  }
+}
+
+/* For aspect ratio plugin if not included by default with Tailwind */
+.aspect-w-16 {
+  position: relative;
+  padding-bottom: calc(9 / 16 * 100%);
+}
+.aspect-h-9 {
+  /* no direct style needed if using padding-bottom trick */
+}
+.aspect-w-16 > *,
+.aspect-h-9 > * {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+/* Prevent scroll restoration */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* Ensure dropdown menus are properly styled */
+.dropdown-content {
+  @apply bg-white border border-gray-200 rounded-md shadow-lg;
+}
+
+/* Hero section specific styles */
+@layer components {
+  .hero-gradient {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 1));
+  }
+
+  /* Language switcher component styles */
+  .language-switcher-trigger {
+    @apply flex items-center space-x-2 px-3 py-2 text-gray-600 hover:text-industrial-blue hover:bg-gray-50 transition-colors rounded-md;
+  }
+
+  .language-switcher-dropdown {
+    @apply w-48 bg-white border border-gray-200 rounded-md shadow-lg;
+  }
+
+  .language-option {
+    @apply flex items-center justify-between p-3 hover:bg-gray-50 cursor-pointer transition-colors;
+  }
+
+  .language-option-active {
+    @apply bg-industrial-blue/10 text-industrial-blue font-medium;
+  }
+}
+
+/* Responsive text scaling for better readability */
+@media (max-width: 640px) {
+  .hero-title-responsive {
+    line-height: 1.1;
+  }
+
+  /* Mobile language switcher adjustments */
+  .language-switcher-trigger {
+    @apply px-2 py-1;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-title-responsive {
+    line-height: 0.95;
+  }
+}
+
+/* Language switcher specific responsive styles */
+@media (max-width: 768px) {
+  .language-indicator {
+    @apply text-xs px-1.5 py-0.5;
+  }
+}

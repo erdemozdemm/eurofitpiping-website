@@ -1,0 +1,354 @@
+{
+  "locale": "nl-NL",
+  "common": {
+    "learnMore": "Meer informatie",
+    "submit": "Verzenden",
+    "cancel": "Annuleren",
+    "close": "Sluiten",
+    "error": "Er is een fout opgetreden. Probeer het opnieuw.",
+    "success": "Actie geslaagd.",
+    "loading": "Bezig met laden...",
+    "readMore": "Lees meer",
+    "by": "door",
+    "postedOn": "Geplaatst op",
+    "allRightsReserved": "Alle rechten voorbehouden."
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "Over ons",
+    "products": "Producten",
+    "coldForming": "Koudvormen",
+    "industries": "Branch‍es",
+    "certificates": "Certificaten",
+    "gallery": "Galerij",
+    "contact": "Offerte aanvragen",
+    "blog": "Blog",
+    "more": "Meer"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "nl": "Nederlands"
+  },
+  "homepage": {
+    "searchProducts": "Zoek naar producten",
+    "searchPlaceholder": "Zoek op materiaal, grootte of naam",
+    "searchButton": "Zoeken",
+    "heroTitle": "Efficiënte & Precieze Pijpfittingproductie",
+    "heroSubtitle": "Aluminium, RVS en CUNI10FE pijpfittingen",
+    "onlyColdFormerInTurkey": "Wij zijn het enige bedrijf in Turkije dat koudvormtechnologie toepast",
+    "sinceTitle": "Sinds 2017",
+    "ourProducts": "Onze product‍en",
+    "whyColdPress": "Waarom koudpersen?",
+    "contactUs": "Offerte aanvragen",
+    "welcomeUser": "Welkom, {userName}!",
+    "learnMore": "Meer informatie",
+    "downloadCatalog": "Catalogus downloaden"
+  },
+  "footer": {
+    "quickLinks": "Snelle links",
+    "contactInfo": "Onze Kantoren",
+    "address": [
+      "Hoofdkantoor: Yukarı Mahalle, Sanayi Caddesi No:45, 34865 Kartal/Istanbul,Turkije",
+      "Europa-kantoor: Multatulistraat 3 2985BH Ridderkerk/Zuid-Holland Nederland",
+      "Productievestiging: Hacıaliler Mahallesi 27316 Sokak No: 12/1 Aksu/Antalya,Turkije"],
+      "phones": [
+        {
+          "label": "Turkije Kantoor",
+          "number": "+90 216 555 0123"
+        },
+        {
+          "label": "Europa Kantoor",
+          "number": "+49 30 12345678"
+        }
+      ],
+      
+    "email": "info@eurofitpiping.com",
+    "socialMedia": "Volg ons",
+    "copyright": "© {year} Eurofit Piping. {allRightsReserved}"
+  },
+  "aboutPage": {
+    "title": "Over Eurofit Piping",
+    "timeline": {
+      "founded": "Opgericht in 2017",
+      "foundedDesc": "Eurofit Piping opgericht met een visie voor kwaliteit.",
+      "coldPress": "Koudpers-technologie geadopteerd",
+      "coldPressDesc": "Geavanceerd koudvormen geïntegreerd voor superieure fittingen.",
+      "expansion": "Uitbreiding van faciliteiten",
+      "expansionDesc": "Productiecapaciteit uitgebreid om aan groeiende vraag te voldoen."
+    },
+    "whatWeDoTitle": "Wat we doen",
+    "whatWeDoContent": "Eurofit Piping is gespecialiseerd in het produceren van hoogwaardige pijpfittingen met behulp van geavanceerde koudvorm‑persmachines. We produceren een breed scala aan producten, waaronder bochten, tees, reducties en maatwerkdelen van materialen zoals aluminium, roestvrij staal en CUNI10FE. Onze inzet is om nauwkeurige en duurzame fittingen te leveren, concurrerend en snel.",
+    "missionTitle": "Onze missie",
+    "missionContent": "Een toonaangevende producent van pijpfittingen worden door innovatieve technologie, superieure kwaliteit en uitzonderlijke klantenservice.",
+    "visionTitle": "Onze visie",
+    "visionContent": "De voorkeurspartner zijn voor pijpfittingoplossingen wereldwijd, erkend om onze precisie, efficiëntie en toewijding aan duurzaamheid.",
+    "galleryTitle": "Onze faciliteit & team",
+    "gallerySubtitle": "Kijk binnen in onze moderne faciliteit en ontmoet het toegewijde team achter ons succes.",
+    "gallery": {
+      "facility1": "Moderne productiefaciliteit",
+      "facility2": "Geavanceerde productievloer",
+      "team1": "Leidinggeven‍d team bijeenkomst",
+      "team2": "Technische excellentie"
+    }
+  },
+  "productsPage": {
+    "title": "Onze producten",
+    "subtitle": "Hoogwaardige fittingen voor diverse industriële toepassingen.",
+    "downloadCatalog": "Productcatalogus downloaden",
+    "categories": {
+      "all": "Alle producten",
+      "elbows": "Bochten",
+      "tees": "Tees",
+      "reducers": "Reducties",
+      "custom": "Speciale/Maatwerkfittingen",
+      "stainless": "Roestvrij staal",
+      "aluminum": "Aluminium",
+      "cunife": "CUNI10FE",
+      "steel": "Staal"
+    },
+    "details": "Bekijk details",
+    "modalTitle": "Productdetails",
+    "materialOptions": "Materiaalmogelijkheden",
+    "sizeOptions": "Maatopties",
+    "standards": "Normen",
+    "useCases": "Toepassingen / Installatie",
+    "exploreRange": "Ontdek ons assortiment met precieze koudgevormde producten.",
+    "detailedInfo": "Gedetailleerde productinformatie.",
+    "noProductsFound": "Geen producten gevonden voor de geselecteerde categorie."
+  },
+  "coldFormingPage": {
+    "title": "Koudvormtechnologie",
+    "subtitle": "De wetenschap achter onze superieure pijpfittingen.",
+    "whatIs": {
+      "title": "Wat is koudpersvormen?",
+      "content": "Koudvormen is een hoogsnelheid‑productieproces waarbij metaal bij kamertemperatuur wordt gevormd. Met immense druk van onze gespecialiseerde persmachines dwingen we een metalen blank in een matrijs om de gewenste fittingvorm te creëren. Deze methode vermijdt verhitting van het materiaal, wat de structurele eigenschappen behoudt of zelfs verbetert, wat resulteert in een sterker, preciezer eindproduct."
+    },
+    "benefits": {
+      "title": "Voordelen ten opzichte van traditioneel warmvormen",
+      "precision": {
+        "title": "Ongeëvenaarde precisie",
+        "content": "Bereikt strakkere toleranties en consistentere afmetingen, wat een perfecte passing garandeert."
+      },
+      "speed": {
+        "title": "Verhoogde productiesnelheid",
+        "content": "Het proces is aanzienlijk sneller dan verwarmen en afkoelen, wat snellere doorlooptijden mogelijk maakt."
+      },
+      "integrity": {
+        "title": "Superieure materiaalintegriteit",
+        "content": "Verharding tijdens het proces verhoogt de sterkte en duurzaamheid van het materiaal zonder zwakke punten."
+      },
+      "surface": {
+        "title": "Uitstekende oppervlakteafwerking",
+        "content": "Levert een glad, schoon oppervlak dat vaak geen secundaire bewerkingen vereist."
+      }
+    },
+    "competitiveEdge": {
+      "title": "Ons concurrentievoordeel",
+      "content": "Door koudvormtechnologie te beheersen, biedt Eurofit Piping producten die niet alleen superieur zijn in kwaliteit, maar ook kosteneffectiever. Verminderd energieverbruik, snellere productcycli en minimale materiaalverspilling stellen ons in staat concurrerende prijzen te bieden zonder concessies te doen aan precisie en sterkte waarop onze klanten vertrouwen."
+    },
+    "infographic": {
+      "title": "Koudvormen vs. Warmvormen",
+      "cold": "Koudvormen",
+      "hot": "Warmvormen",
+      "temperature": "Temperatuur",
+      "temperature_cold": "Kamertemperatuur",
+      "temperature_hot": "Boven recrystallisatie",
+      "precision": "Precisie",
+      "precision_cold": "Hoog",
+      "precision_hot": "Lager",
+      "strength": "Materiaalsterkte",
+      "strength_cold": "Verhoogd (door koudvervorming)",
+      "strength_hot": "Ongewijzigd",
+      "cost": "Energiekosten",
+      "cost_cold": "Laag",
+      "cost_hot": "Hoog"
+    }
+  },
+  "industriesPage": {
+    "title": "Bran‍ches die wij bedienen",
+    "subtitle": "Robuuste en betrouwbare fittingoplossingen in diverse sectoren.",
+    "industries": {
+      "maritime": {
+        "title": "Maritiem & Scheepsbouw",
+        "description": "Onze CUNI10FE- en RVS-fittingen bieden superieure corrosiebestendigheid, waardoor ze ideaal zijn voor zeewaterleidingssystemen, ballastwaterbehandeling en machinekamerapplicaties op schepen en offshore platforms."
+      },
+      "hvac": {
+        "title": "HVAC & Koeling",
+        "description": "Nauwkeurig vervaardigde aluminium en RVS-fittingen zorgen voor lekvrije en efficiënte prestaties in commerciële en industriële verwarmings-, ventilatie-, airconditioning- en koelsystemen."
+      },
+      "industrial": {
+        "title": "Industr‍iële constructie",
+        "description": "Wij leveren duurzame fittingen voor een breed scala aan industriële bouwprojecten, waaronder chemische verwerkingsinstallaties, waterzuiveringsinstallaties en algemene productie, waar betrouwbaarheid van het grootste belang is."
+      },
+      "oilAndGas": {
+        "title": "Olie & Gas",
+        "description": "Onze hogesterktefittingen worden vertrouwd in upstream-, midstream- en downstream toepassingen, bestand tegen de zware omstandigheden en hoge drukken die typisch zijn voor de olie- en gassector."
+      },
+      "renewable": {
+        "title": "Duurzame energiesystemen",
+        "description": "Eurofit levert kritische componenten voor duurzame energie-infrastructuur, zoals zonne-energiecentrales, geothermische verwarmingsinstallaties en biofuelsystemen, ter ondersteuning van de overgang naar schone energie."
+      }
+    }
+  },
+  "certificatesPage": {
+    "title": "Certificaten & Normen",
+    "subtitle": "Onze inzet voor kwaliteit en internationale naleving.",
+    "isoCertificates": {
+      "title": "ISO-certificaten",
+      "description": "Eurofit Piping is trots op de volgende ISO-certificeringen, waarmee we onze naleving van wereldwijde kwaliteitsbeheersystemen tonen.",
+      "iso9001": "ISO 9001:2015 - Kwaliteitsmanagementsystemen",
+      "iso14001": "ISO 14001:2015 - Milieumanagementsystemen (gepland)",
+      "viewCertificate": "Certificaat bekijken"
+    },
+    "complianceStandards": {
+      "title": "Nalevingsnormen",
+      "description": "Onze producten worden vervaardigd in overeenstemming met strenge internationale en sectorspecifieke normen om veiligheid, betrouwbaarheid en prestaties te waarborgen.",
+      "list": [
+        "Pressure Equipment Directive (PED) 2014/68/EU",
+        "Materiaalcertificeringen (bijv. EN 10204 3.1)",
+        "Specifieke klanteisen en kwaliteitsplannen"
+      ]
+    },
+    "supportedSpecifications": {
+      "title": "Ondersteunde specificaties",
+      "description": "We produceren fittingen volgens een breed scala aan internationaal erkende specificaties, waaronder maar niet beperkt tot:",
+      "list": [
+        "ASTM (American Society for Testing and Materials)",
+        "DIN (Deutsches Institut für Normung)",
+        "EN (Europese normen)",
+        "ASME (American Society of Mechanical Engineers)",
+        "BS (British Standards)",
+        "JIS (Japanese Industrial Standards)"
+      ]
+    }
+  },
+  "contactPage": {
+    "title": "Neem contact met ons op",
+    "subtitle": "We staan voor je klaar voor al je pijpfittingbehoeften. Neem contact op!",
+    "form": {
+      "title": "Stuur ons een bericht",
+      "name": "Volledige naam",
+      "namePlaceholder": "Je volledige naam",
+      "email": "E-mailadres",
+      "emailPlaceholder": "jouw.email@voorbeeld.com",
+      "subject": "Onderwerp",
+      "subjectPlaceholder": "Vraag over...",
+      "message": "Bericht",
+      "messagePlaceholder": "Je gedetailleerde bericht...",
+      "submit": "Verzenden",
+      "submitting": "Bezig met verzenden...",
+      "success": "Bedankt! Je bericht is succesvol verzonden.",
+      "error": "Er is een fout opgetreden. Probeer het later opnieuw."
+    },
+    "directContact": {
+      "title": "Direct contact",
+      "address": "Ons kantoor",
+      "addressDetails": "Yukarı Mahalle, Sanayi Caddesi No:45, 34865 Kartal/İstanbul, Turkije",
+      "phone": "Telefoon",
+      "whatsapp": "WhatsApp",
+      "email": "E‑mail"
+    },
+    "mapTitle": "Vind ons hier"
+  },
+  "blogPage": {
+    "title": "Eurofit Piping Blog & Nieuws",
+    "subtitle": "Inzichten, updates en artikelen over pijpfittingtechnologie en branchetrends.",
+    "readTitle": "Lees meer",
+    "backTitle": "Terug naar Blog",
+    "noPosts": "Er zijn momenteel geen blogposts beschikbaar. Kom binnenkort terug!",
+    "authorDefault": "Eurofit Team",
+    "posts": {
+      "cuanife-marine": {
+        "title": "Hoe CuNiFe-fittingen maritieme toepassingen verbeteren",
+        "excerpt": "Ontdek de uitzonderlijke corrosiebestendigheid en duurzaamheid van CuNiFe-fittingen in veeleisende zoutwatertoepassingen."
+      },
+      "cold-forming-vs-welding": {
+        "title": "Koudvormen vs. traditionele lassen bij pijpfittingen",
+        "excerpt": "Een vergelijkende blik op koudvormen en lassen voor de productie van pijpfittingen, met de voordelen van moderne technieken."
+      },
+      "cnc-integration-2025": {
+        "title": "Nieuwe CNC‑integratie bij Eurofit (2025-update)",
+        "excerpt": "Eurofit Piping verhoogt precisie en efficiëntie met de integratie van geavanceerde CNC‑bewerkingscapaciteiten."
+      }
+    }
+  },
+  "galleryPage": {
+    "title": "Fotogalerij",
+    "subtitle": "Verken onze moderne faciliteit, geavanceerde productieprocessen en toegewijd team.",
+    "viewAllPhotos": "Bekijk alle foto's",
+    "categories": {
+      "all": "Alle foto's",
+      "facility": "Faciliteit",
+      "production": "Productie",
+      "team": "Team",
+      "products": "Producten"
+    },
+    "images": {
+      "facility1": {
+        "title": "Moderne industriële faciliteit",
+        "description": "Onze moderne productiefaciliteit in Kartal, İstanbul, ontworpen voor optimale efficiëntie en veiligheid."
+      },
+      "facility2": {
+        "title": "Hoofdproductiewarehouse",
+        "description": "Ruime productiewarehouse met hoge plafonds en georganiseerde workflows voor maximale operationele efficiëntie."
+      },
+      "facility3": {
+        "title": "Kantoor & administratie",
+        "description": "Moderne kantoorruimtes waar ons administratief en technisch team samenwerken aan projecten en klantoplossingen."
+      },
+      "facility4": {
+        "title": "Laboratorium kwaliteit‍controle",
+        "description": "Geavanceerd test- en kwaliteitscontrollaboratorium uitgerust met precisie-instrumenten voor materiaal- en productverificatie."
+      },
+      "production1": {
+        "title": "Koudvormpersmachine",
+        "description": "Onze gespecialiseerde koudvormpersmachines die metaal bij kamertemperatuur vormen voor superieure sterkte en precisie."
+      },
+      "production2": {
+        "title": "CNC‑bewerkingscentrum",
+        "description": "Geavanceerde CNC‑bewerkingscentra voor precisieafwerking en maatwerkonderdelen met strakke toleranties."
+      },
+      "production3": {
+        "title": "Geautomatiseerde productielijn",
+        "description": "Gestroomlijnde productielijn met automatiseringssystemen voor consistente kwaliteit en efficiënte productieprocessen."
+      },
+      "production4": {
+        "title": "Kwaliteitsinspectie-station",
+        "description": "Toegewijde kwaliteitsinspectie-stations waar elk product rigoureus wordt getest voor verzending."
+      },
+      "production5": {
+        "title": "Opslag ruw materiaal",
+        "description": "Georganiseerde opslagruimte voor grondstoffen, waaronder aluminium, roestvrij staal en CuNiFe‑legeringen."
+      },
+      "team1": {
+        "title": "Leidinggevend teamvergadering",
+        "description": "Ons leidinggevende team werkt samen aan strategische beslissingen en continue verbeteringen."
+      },
+      "team2": {
+        "title": "Productietechnici",
+        "description": "Vakkundige technici bedienen onze geavanceerde machines met expertise en oog voor nauwkeurigheid."
+      },
+      "team3": {
+        "title": "Kwaliteitscontroleteam",
+        "description": "Toegewijd kwaliteitscontrole‑engineers zorgen ervoor dat elk product aan onze hoge standaarden en klantspecificaties voldoet."
+      },
+      "team4": {
+        "title": "Samenwerking technisch team",
+        "description": "Ons technische team werkt samen aan productontwikkeling en procesoptimalisatie."
+      },
+      "products1": {
+        "title": "Weergave van afgewerkte pijpfittingen",
+        "description": "Een selectie van onze hoogwaardige afgewerkte pijpfittingen, klaar voor verzending naar klanten wereldwijd."
+      },
+      "products2": {
+        "title": "CuNiFe pijpfittingen",
+        "description": "Premium CuNiFe-pijpfittingen met uitstekende corrosiebestendigheid voor maritieme en industriële toepassingen."
+      },
+      "products3": {
+        "title": "Roestvrijstalen fittingen",
+        "description": "Precisie-geproduceerde roestvrijstalen pijpfittingen voor veeleisende industriële en commerciële toepassingen."
+      }
+    }
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "locale": "en-US",
+  "common": {
+    "learnMore": "Learn More",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "error": "An error occurred. Please try again.",
+    "success": "Operation successful.",
+    "loading": "Loading...",
+    "readMore": "Read More",
+    "by": "by",
+    "postedOn": "Posted on",
+    "allRightsReserved": "All rights reserved."
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "coldForming": "Cold Forming",
+    "industries": "Industries",
+    "certificates": "Certificates",
+    "gallery": "Gallery",
+    "contact": "Make an Offer",
+    "blog": "Blog",
+    "more": "More"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "nl": "Nederlands"
+  },
+  "homepage": {
+    "searchProducts": "Search for Products",
+    "searchPlaceholder": "Search by material, size or name",
+    "searchButton": "Search",
+    "heroTitle": "Efficient & Precise Pipe Fitting Manufacturing",
+    "heroSubtitle": "Aluminum, Stainless Steel, and CUNI10FE Pipe Fittings",
+    "onlyColdFormerInTurkey": "We are the only company in Turkey applying cold forming technology.",
+    "sinceTitle" : "Since 2017",
+    "ourProducts": "Our Products",
+    "whyColdPress": "Why Cold Press?",
+    "contactUs": "Make an Offer",
+    "welcomeUser": "Welcome, {userName}!",
+    "learnMore": "Learn More",
+    "downloadCatalog": "Download Catalog"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contactInfo": "Our Offices",
+    "address": [
+      "Head Office: Yukarı Mahalle, Sanayi Caddesi No:45, 34865 Kartal/Istanbul,Turkey",
+      "Europe Office: Multatulistraat 3 2985BH Ridderkerk/Zuid-Holland Nederland",
+      "Production Plant: Hacıaliler Mahallesi 27316 Sokak No: 12/1 Aksu/Antalya,Turkey"],
+      "phones": [
+        {
+          "label": "Turkey Contact",
+          "number": "+90 216 555 0123"
+        },
+        {
+          "label": "Europe Contact",
+          "number": "+49 30 12345678"
+        }
+      ],
+      
+    "email": "info@eurofitpiping.com",
+    "socialMedia": "Follow Us",
+    "copyright": "© {year} Eurofit Piping. {allRightsReserved}"
+  },
+  "aboutPage": {
+    "title": "About Eurofit Piping",
+    "timeline": {
+      "founded": "Founded in 2017",
+      "foundedDesc": "Eurofit Piping established with a vision for quality.",
+      "coldPress": "Cold Press Technology Adopted",
+      "coldPressDesc": "Integrated advanced cold forming for superior fittings.",
+      "expansion": "Facility Expansion",
+      "expansionDesc": "Expanded production capacity to meet growing demand."
+    },
+    "whatWeDoTitle": "What We Do",
+    "whatWeDoContent": "Eurofit Piping specializes in the manufacturing of high-quality pipe fittings using advanced cold forming press_machines. We produce a wide range of products including elbows, tees, reducers, and custom parts from materials like Aluminum, Stainless Steel, and CUNI10FE. Our commitment is to deliver precise and durable fittings, competitively and quickly.",
+    "missionTitle": "Our Mission",
+    "missionContent": "To be a leading manufacturer of pipe fittings by leveraging innovative technology, ensuring superior quality, and providing exceptional customer service.",
+    "visionTitle": "Our Vision",
+    "visionContent": "To be the preferred partner for pipe fitting solutions globally, recognized for our precision, efficiency, and commitment to sustainability.",
+    "galleryTitle": "Our Facility & Team",
+    "gallerySubtitle": "Take a look inside our modern facility and meet the dedicated team behind our success.",
+    "gallery": {
+      "facility1": "Modern Production Facility",
+      "facility2": "State-of-the-Art Production Floor",
+      "team1": "Leadership Team Meeting",
+      "team2": "Engineering Excellence"
+    }
+  },
+  "productsPage": {
+    "title": "Our Products",
+    "subtitle": "High-quality fittings for various industrial applications.",
+    "downloadCatalog": "Download Product Catalog",
+    "categories": {
+      "all": "All Products",
+      "elbows": "Elbows",
+      "tees": "Tees",
+      "reducers": "Reducers",
+      "custom": "Special/Custom Fittings",
+      "stainless": "Stainless Steel",
+      "aluminum": "Aluminum",
+      "cunife": "CUNI10FE",
+      "steel": "Steel"
+    },
+    "details": "View Details",
+    "modalTitle": "Product Details",
+    "materialOptions": "Material Options",
+    "sizeOptions": "Size Options",
+    "standards": "Standards",
+    "useCases": "Use Cases / Installation",
+    "exploreRange": "Explore our range of product manufactured with precision cold forming.",
+    "detailedInfo": "Detailed information about our product.",
+    "noProductsFound": "No products found for the selected category."
+  },
+  "coldFormingPage": {
+    "title": "Cold Forming Technology",
+    "subtitle": "The science behind our superior pipe fittings.",
+    "whatIs": {
+      "title": "What is Cold Press Forming?",
+      "content": "Cold forming is a high-speed manufacturing process where metal is shaped at room temperature. Using immense pressure from our specialized press machines, we force a metal blank into a die to create the desired fitting shape. This method avoids heating the material, which preserves and even enhances its structural properties, resulting in a stronger, more precise final product."
+    },
+    "benefits": {
+      "title": "Benefits Over Traditional Hot Forming",
+      "precision": {
+        "title": "Unmatched Precision",
+        "content": "Achieves tighter tolerances and more consistent dimensions, ensuring a perfect fit every time."
+      },
+      "speed": {
+        "title": "Increased Production Speed",
+        "content": "The process is significantly faster than heating and cooling, allowing for quicker turnaround times."
+      },
+      "integrity": {
+        "title": "Superior Material Integrity",
+        "content": "Work hardening during the process increases the material's strength and durability without weak points."
+      },
+      "surface": {
+        "title": "Excellent Surface Finish",
+        "content": "Produces a smooth, clean surface that often requires no secondary finishing operations."
+      }
+    },
+    "competitiveEdge": {
+      "title": "Our Competitive Edge",
+      "content": "By mastering cold forming technology, Eurofit Piping offers products that are not only superior in quality but also more cost-effective. Reduced energy consumption, faster production cycles, and minimal material waste allow us to provide competitive pricing without compromising on the precision and strength our clients depend on."
+    },
+    "infographic": {
+      "title": "Cold Forming vs. Hot Forming",
+      "cold": "Cold Forming",
+      "hot": "Hot Forming",
+      "temperature": "Temperature",
+      "temperature_cold": "Room Temperature",
+      "temperature_hot": "Above Recrystallization",
+      "precision": "Precision",
+      "precision_cold": "High",
+      "precision_hot": "Lower",
+      "strength": "Material Strength",
+      "strength_cold": "Increased (Work Hardening)",
+      "strength_hot": "Unaltered",
+      "cost": "Energy Cost",
+      "cost_cold": "Low",
+      "cost_hot": "High"
+    }
+  },
+  "industriesPage": {
+    "title": "Industries We Serve",
+    "subtitle": "Providing robust and reliable fitting solutions across diverse sectors.",
+    "industries": {
+      "maritime": {
+        "title": "Maritime & Shipbuilding",
+        "description": "Our CUNI10FE and stainless steel fittings offer superior corrosion resistance, making them ideal for seawater piping systems, ballast water treatment, and engine room applications on ships and offshore platforms."
+      },
+      "hvac": {
+        "title": "HVAC & Refrigeration",
+        "description": "Precision-engineered aluminum and stainless steel fittings ensure leak-proof and efficient performance in commercial and industrial heating, ventilation, air conditioning, and refrigeration systems."
+      },
+      "industrial": {
+        "title": "Industrial Construction",
+        "description": "We supply durable fittings for a wide range of industrial construction projects, including chemical processing plants, water treatment facilities, and general manufacturing, where reliability is paramount."
+      },
+      "oilAndGas": {
+        "title": "Oil & Gas",
+        "description": "Our high-strength fittings are trusted in upstream, midstream, and downstream applications, capable of withstanding the harsh environments and high pressures typical of the oil and gas industry."
+      },
+      "renewable": {
+        "title": "Renewable Energy Systems",
+        "description": "Eurofit provides critical components for renewable energy infrastructure, such as solar thermal plants, geothermal heating systems, and biofuel production facilities, supporting the transition to clean energy."
+      }
+    }
+  },
+  "certificatesPage": {
+    "title": "Certificates & Standards",
+    "subtitle": "Our commitment to quality and international compliance.",
+    "isoCertificates": {
+      "title": "ISO Certifications",
+      "description": "Eurofit Piping is proud to hold the following ISO certifications, demonstrating our adherence to global quality management standards.",
+      "iso9001": "ISO 9001:2015 - Quality Management Systems",
+      "iso14001": "ISO 14001:2015 - Environmental Management Systems (Planned)",
+      "viewCertificate": "View Certificate"
+    },
+    "complianceStandards": {
+      "title": "Compliance Standards",
+      "description": "Our products are manufactured in compliance with rigorous international and industry-specific standards to ensure safety, reliability, and performance.",
+      "list": [
+        "Pressure Equipment Directive (PED) 2014/68/EU",
+        "Material certifications (e.g., EN 10204 3.1)",
+        "Specific customer requirements and quality plans"
+      ]
+    },
+    "supportedSpecifications": {
+      "title": "Supported Specifications",
+      "description": "We manufacture fittings according to a wide range of internationally recognized specifications, including but not limited to:",
+      "list": [
+        "ASTM (American Society for Testing and Materials)",
+        "DIN (Deutsches Institut für Normung)",
+        "EN (European Standards)",
+        "ASME (American Society of Mechanical Engineers)",
+        "BS (British Standards)",
+        "JIS (Japanese Industrial Standards)"
+      ]
+    }
+  },
+  "contactPage": {
+    "title": "Get In Touch",
+    "subtitle": "We're here to help with your pipe fitting needs. Reach out to us!",
+    "form": {
+      "title": "Send us a Message",
+      "name": "Full Name",
+      "namePlaceholder": "Your Full Name",
+      "email": "Email Address",
+      "emailPlaceholder": "your.email@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "Inquiry about...",
+      "message": "Message",
+      "messagePlaceholder": "Your detailed message...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Thank you! Your message has been sent successfully.",
+      "error": "An error occurred. Please try again later."
+    },
+    "directContact": {
+      "title": "Direct Contact",
+      "address": "Our Office",
+      "addressDetails": "Yukarı Mahalle, Sanayi Caddesi No:45, 34865 Kartal/İstanbul, Turkey",
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "email": "Email"
+    },
+    "mapTitle": "Find Us Here"
+  },
+  "blogPage": {
+    "title": "Eurofit Piping Blog & News",
+    "subtitle": "Insights, updates, and articles on pipe fitting technology and industry trends.",
+    "readTitle": "Read More",
+    "backTitle": "Back to Blog",
+    "noPosts": "No blog posts available at the moment. Check back soon!",
+    "authorDefault": "Eurofit Team",
+    "posts": {
+      "cuanife-marine": {
+        "title": "How CuNiFe Fittings Improve Marine Applications",
+        "excerpt": "Discover the exceptional corrosion resistance and durability of CuNiFe fittings in demanding saltwater environments."
+      },
+      "cold-forming-vs-welding": {
+        "title": "Cold Forming vs. Traditional Welding in Pipe Fittings",
+        "excerpt": "A comparative look at cold forming and welding for manufacturing pipe fittings, highlighting the advantages of modern techniques."
+      },
+      "cnc-integration-2025": {
+        "title": "New CNC Integration at Eurofit (2025 Update)",
+        "excerpt": "Eurofit Piping enhances precision and efficiency with the integration of advanced CNC machining capabilities."
+      }
+    }
+  },
+  "galleryPage": {
+    "title": "Photo Gallery",
+    "subtitle": "Explore our modern facility, advanced production processes, and dedicated team.",
+    "viewAllPhotos": "View All Photos",
+    "categories": {
+      "all": "All Photos",
+      "facility": "Facility",
+      "production": "Production",
+      "team": "Team",
+      "products": "Products"
+    },
+    "images": {
+      "facility1": {
+        "title": "Modern Industrial Facility",
+        "description": "Our state-of-the-art manufacturing facility located in Kartal, İstanbul, designed for optimal production efficiency and safety."
+      },
+      "facility2": {
+        "title": "Main Production Warehouse",
+        "description": "Spacious production warehouse with high ceilings and organized workflow areas for maximum operational efficiency."
+      },
+      "facility3": {
+        "title": "Office & Administrative Area",
+        "description": "Modern office spaces where our administrative and engineering teams collaborate on projects and customer solutions."
+      },
+      "facility4": {
+        "title": "Quality Control Laboratory",
+        "description": "Advanced testing and quality control laboratory equipped with precision instruments for material and product verification."
+      },
+      "production1": {
+        "title": "Cold Forming Press Machine",
+        "description": "Our specialized cold forming press machines that shape metal at room temperature for superior strength and precision."
+      },
+      "production2": {
+        "title": "CNC Machining Center",
+        "description": "Advanced CNC machining centers for precision finishing and custom part manufacturing with tight tolerances."
+      },
+      "production3": {
+        "title": "Automated Production Line",
+        "description": "Streamlined production line with automated systems for consistent quality and efficient manufacturing processes."
+      },
+      "production4": {
+        "title": "Quality Inspection Station",
+        "description": "Dedicated quality inspection stations where every product undergoes rigorous testing before shipment."
+      },
+      "production5": {
+        "title": "Raw Material Storage",
+        "description": "Organized storage area for raw materials including aluminum, stainless steel, and CuNiFe alloys."
+      },
+      "team1": {
+        "title": "Management Team Meeting",
+        "description": "Our leadership team collaborating on strategic decisions and continuous improvement initiatives."
+      },
+      "team2": {
+        "title": "Production Technicians",
+        "description": "Skilled technicians operating our advanced machinery with expertise and attention to detail."
+      },
+      "team3": {
+        "title": "Quality Control Team",
+        "description": "Dedicated quality control engineers ensuring every product meets our high standards and customer specifications."
+      },
+      "team4": {
+        "title": "Engineering Team Collaboration",
+        "description": "Our engineering team working together on product development and process optimization."
+      },
+      "products1": {
+        "title": "Finished Pipe Fittings Display",
+        "description": "A selection of our high-quality finished pipe fittings ready for shipment to customers worldwide."
+      },
+      "products2": {
+        "title": "CuNiFe Pipe Fittings",
+        "description": "Premium CuNiFe pipe fittings with excellent corrosion resistance for marine and industrial applications."
+      },
+      "products3": {
+        "title": "Stainless Steel Fittings",
+        "description": "Precision-manufactured stainless steel pipe fittings for demanding industrial and commercial applications."
+      }
+    }
+  }
+}

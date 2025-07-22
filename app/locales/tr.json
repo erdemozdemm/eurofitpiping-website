@@ -1,0 +1,356 @@
+{
+  "locale": "tr-TR",
+  "common": {
+    "learnMore": "Daha Fazla Bilgi",
+    "submit": "Gönder",
+    "cancel": "İptal",
+    "close": "Kapat",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin.",
+    "success": "İşlem başarılı.",
+    "loading": "Yükleniyor...",
+    "readMore": "Devamını Oku",
+    "by": "tarafından",
+    "postedOn": "Yayınlanma tarihi",
+    "allRightsReserved": "Tüm hakları saklıdır."
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "products": "Ürünler",
+    "coldForming": "Soğuk Şekillendirme",
+    "industries": "Sektörler",
+    "certificates": "Sertifikalar",
+    "gallery": "Galeri",
+    "contact": "Teklif Alın",
+    "blog": "Blog",
+    "more": "Daha Fazla"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "nl": "Nederlands"
+  },
+    "homepage": {
+    "searchProducts": "Ürünleri Ara",
+    "searchPlaceholder": "Malzeme, boyut veya isim yazarak arayın",
+    "searchButton": "Ara",
+    "heroTitle": "Verimli ve Hassas\nBoru Bağlantı Elemanları Üretimi",
+    "heroSubtitle": "Alüminyum, Paslanmaz Çelik ve CUNI10FE Boru Bağlantı Elemanları",
+    "onlyColdFormerInTurkey": "Türkiye'de cold forming teknolojisini uygulayan tek firmayız",
+    "sinceTitle": "2017'den Beri",
+    "ourProducts": "Ürünlerimiz",
+    "whyColdPress": "Neden Soğuk Pres?",
+    "contactUs": "Teklif Alın",
+    "welcomeUser": "Hoş geldiniz, {userName}!",
+    "learnMore": "Daha Fazla Bilgi",
+    "downloadCatalog": "Katalog İndir"
+  },
+  "footer": {
+    "quickLinks": "Hızlı Bağlantılar",
+    "contactInfo": "Ofislerimiz",
+    "address": [
+      "Merkez Ofis: Yukarı Mahalle, Sanayi Caddesi No:45, 34865 Kartal/İstanbul, Türkiye",
+      "Avrupa Ofisi: Multatulistraat 3 2985BH Ridderkerk/Zuid-Holland Nederland",
+      "Üretim Tesisi: Hacıaliler Mahallesi 27316 Sokak No: 12/1 Aksu/Antalya"
+    ],
+    "phones": [
+      {
+        "label": "Türkiye İletişim",
+        "number": "+90 505 781 0328"
+      },
+      {
+        "label": "Avrupa İletişim",
+        "number": "+31 6 81735781"
+      }
+    ],
+    
+    "email": "info@eurofitpiping.com",
+    "socialMedia": "Bizi Takip Edin",
+    "copyright": "© {year} Eurofit Piping. {allRightsReserved}"
+  },
+  "aboutPage": {
+    "title": "Eurofit Piping Hakkında",
+    "timeline": {
+      "founded": "2017'de Kuruldu",
+      "foundedDesc": "Eurofit Piping kalite vizyonu ile kuruldu.",
+      "coldPress": "Soğuk Pres Teknolojisi Benimsendi",
+      "coldPressDesc": "Üstün bağlantı elemanları için gelişmiş soğuk şekillendirme entegre edildi.",
+      "expansion": "Tesis Genişletildi",
+      "expansionDesc": "Artan talebe cevap vermek için üretim kapasitesi genişletildi."
+    },
+    "whatWeDoTitle": "Ne Yapıyoruz",
+    "whatWeDoContent": "Eurofit Piping, gelişmiş soğuk şekillendirme pres makineleri kullanarak yüksek kaliteli boru bağlantı elemanları üretiminde uzmanlaşmıştır. Alüminyum, Paslanmaz Çelik ve CuNiFe gibi malzemelerden dirsekler, T parçalar, redüktörler ve özel parçalar dahil olmak üzere geniş bir ürün yelpazesi üretiyoruz. Taahhüdümüz, rekabetçi ve hızlı bir şekilde hassas ve dayanıklı bağlantı elemanları sunmaktır.",
+    "missionTitle": "Misyonumuz",
+    "missionContent": "Yenilikçi teknolojiden yararlanarak, üstün kaliteyi garanti ederek ve olağanüstü müşteri hizmeti sağlayarak önde gelen bir boru bağlantı elemanları üreticisi olmak.",
+    "visionTitle": "Vizyonumuz",
+    "visionContent": "Hassasiyetimiz, verimliliğimiz ve sürdürülebilirlik konusundaki kararlılığımızla tanınan, küresel olarak boru bağlantı elemanları çözümleri için tercih edilen ortak olmak.",
+    "galleryTitle": "Tesisimiz ve Ekibimiz",
+    "gallerySubtitle": "Modern tesisimizin içine bir göz atın ve başarımızın arkasındaki özveri ile çalışan ekiple tanışın.",
+    "gallery": {
+      "facility1": "Modern Üretim Tesisi",
+      "facility2": "Son Teknoloji Üretim Sahası",
+      "team1": "Liderlik Ekibi Toplantısı",
+      "team2": "Mühendislik Mükemmelliği"
+    }
+  },
+  "productsPage": {
+    "title": "Ürünlerimiz",
+    "subtitle": "Çeşitli endüstriyel uygulamalar için yüksek kaliteli bağlantı elemanları.",
+    "downloadCatalog": "Ürün Kataloğunu İndir",
+    "categories": {
+      "all": "Tüm Ürünler",
+      "elbows": "Dirsekler",
+      "tees": "T Parçalar",
+      "reducers": "Redüksiyon",
+      "custom": "Özel/Özelleştirilmiş Bağlantı Elemanları",
+      "stainless": "Paslanmaz Çelik",
+      "aluminum": "Alüminyum",
+      "cunife": "CUNI10FE",
+      "steel": "Çelik"
+    },
+    "details": "Detayları Görüntüle",
+    "modalTitle": "Ürün Detayları",
+    "materialOptions": "Malzeme Seçenekleri",
+    "sizeOptions": "Boyut Seçenekleri",
+    "standards": "Standartlar",
+    "useCases": "Kullanım Alanları / Kurulum",
+    "exploreRange": "Hassas soğuk şekillendirme ile üretilen ürün yelpazemizi keşfedin.",
+    "detailedInfo": "Ürünümüz hakkında detaylı bilgi.",
+    "noProductsFound": "Seçilen kategori için ürün bulunamadı."
+  },
+  "coldFormingPage": {
+    "title": "Soğuk Şekillendirme Teknolojisi",
+    "subtitle": "Üstün boru bağlantı elemanlarımızın arkasındaki bilim.",
+    "whatIs": {
+      "title": "Soğuk Pres Şekillendirme Nedir?",
+      "content": "Soğuk şekillendirme, metalin oda sıcaklığında şekillendirildiği yüksek hızlı bir üretim sürecidir. Özel pres makinelerimizden gelen muazzam basınç kullanarak, istenen bağlantı elemanı şeklini oluşturmak için metal bir boşluğu kalıba zorluyoruz. Bu yöntem malzemeyi ısıtmaktan kaçınır, bu da yapısal özelliklerini korur ve hatta geliştirir, daha güçlü, daha hassas bir nihai ürün ile sonuçlanır."
+    },
+    "benefits": {
+      "title": "Geleneksel Sıcak Şekillendirmeye Göre Avantajları",
+      "precision": {
+        "title": "Eşsiz Hassasiyet",
+        "content": "Daha sıkı toleranslar ve daha tutarlı boyutlar elde eder, her seferinde mükemmel bir uyum sağlar."
+      },
+      "speed": {
+        "title": "Artan Üretim Hızı",
+        "content": "Süreç, ısıtma ve soğutmadan önemli ölçüde daha hızlıdır, daha hızlı teslim sürelerine olanak tanır."
+      },
+      "integrity": {
+        "title": "Üstün Malzeme Bütünlüğü",
+        "content": "İşlem sırasında iş sertleşmesi, zayıf noktalar olmadan malzemenin mukavemetini ve dayanıklılığını artırır."
+      },
+      "surface": {
+        "title": "Mükemmel Yüzey Kalitesi",
+        "content": "Genellikle ikincil bitirme işlemleri gerektirmeyen pürüzsüz, temiz bir yüzey üretir."
+      }
+    },
+    "competitiveEdge": {
+      "title": "Rekabet Avantajımız",
+      "content": "Soğuk şekillendirme teknolojisinde ustalaşarak, Eurofit Piping sadece kalitede üstün değil aynı zamanda daha uygun maliyetli ürünler sunar. Azaltılmış enerji tüketimi, daha hızlı üretim döngüleri ve minimum malzeme israfı, müşterilerimizin güvendiği hassasiyet ve mukavemetten ödün vermeden rekabetçi fiyatlandırma sağlamamıza olanak tanır."
+    },
+    "infographic": {
+      "title": "Soğuk Şekillendirme vs. Sıcak Şekillendirme",
+      "cold": "Soğuk Şekillendirme",
+      "hot": "Sıcak Şekillendirme",
+      "temperature": "Sıcaklık",
+      "temperature_cold": "Oda Sıcaklığı",
+      "temperature_hot": "Yeniden Kristalleşme Üstü",
+      "precision": "Hassasiyet",
+      "precision_cold": "Yüksek",
+      "precision_hot": "Düşük",
+      "strength": "Malzeme Mukavemeti",
+      "strength_cold": "Artmış (İş Sertleşmesi)",
+      "strength_hot": "Değişmemiş",
+      "cost": "Enerji Maliyeti",
+      "cost_cold": "Düşük",
+      "cost_hot": "Yüksek"
+    }
+  },
+  "industriesPage": {
+    "title": "Hizmet Verdiğimiz Sektörler",
+    "subtitle": "Çeşitli sektörlerde sağlam ve güvenilir bağlantı elemanı çözümleri sağlıyoruz.",
+    "industries": {
+      "maritime": {
+        "title": "Denizcilik ve Gemi İnşaatı",
+        "description": "CUNI10FE ve paslanmaz çelik bağlantı elemanlarımız üstün korozyon direnci sunar, bu da onları gemilerde ve açık deniz platformlarında deniz suyu boru sistemleri, balast suyu arıtımı ve makine dairesi uygulamaları için ideal kılar."
+      },
+      "hvac": {
+        "title": "HVAC ve Soğutma",
+        "description": "Hassas mühendislikle üretilmiş alüminyum ve paslanmaz çelik bağlantı elemanları, ticari ve endüstriyel ısıtma, havalandırma, klima ve soğutma sistemlerinde sızdırmaz ve verimli performans sağlar."
+      },
+      "industrial": {
+        "title": "Endüstriyel İnşaat",
+        "description": "Güvenilirliğin hayati önem taşıdığı kimyasal işleme tesisleri, su arıtma tesisleri ve genel üretim dahil olmak üzere çok çeşitli endüstriyel inşaat projeleri için dayanıklı bağlantı elemanları tedarik ediyoruz."
+      },
+      "oilAndGas": {
+        "title": "Petrol ve Gaz",
+        "description": "Yüksek mukavemetli bağlantı elemanlarımız, petrol ve gaz endüstrisinin tipik zorlu ortamlarına ve yüksek basınçlarına dayanabilen yukarı akış, orta akış ve aşağı akış uygulamalarında güvenilir."
+      },
+      "renewable": {
+        "title": "Yenilenebilir Enerji Sistemleri",
+        "description": "Eurofit, güneş termal santralleri, jeotermal ısıtma sistemleri ve biyoyakıt üretim tesisleri gibi yenilenebilir enerji altyapısı için kritik bileşenler sağlayarak temiz enerjiye geçişi destekler."
+      }
+    }
+  },
+  "certificatesPage": {
+    "title": "Sertifikalar ve Standartlar",
+    "subtitle": "Kalite ve uluslararası uyumluluk konusundaki taahhüdümüz.",
+    "isoCertificates": {
+      "title": "ISO Sertifikaları",
+      "description": "Eurofit Piping, küresel kalite yönetim standartlarına bağlılığımızı gösteren aşağıdaki ISO sertifikalarına sahip olmaktan gurur duyar.",
+      "iso9001": "ISO 9001:2015 - Kalite Yönetim Sistemleri",
+      "iso14001": "ISO 14001:2015 - Çevre Yönetim Sistemleri (Planlanmış)",
+      "viewCertificate": "Sertifikayı Görüntüle"
+    },
+    "complianceStandards": {
+      "title": "Uyumluluk Standartları",
+      "description": "Ürünlerimiz güvenlik, güvenilirlik ve performansı sağlamak için titiz uluslararası ve sektöre özel standartlara uygun olarak üretilir.",
+      "list": [
+        "Basınçlı Ekipman Direktifi (PED) 2014/68/EU",
+        "Malzeme sertifikaları (örn. EN 10204 3.1)",
+        "Özel müşteri gereksinimleri ve kalite planları"
+      ]
+    },
+    "supportedSpecifications": {
+      "title": "Desteklenen Spesifikasyonlar",
+      "description": "Aşağıdakiler dahil ancak bunlarla sınırlı olmamak üzere, uluslararası olarak tanınan çok çeşitli spesifikasyonlara göre bağlantı elemanları üretiyoruz:",
+      "list": [
+        "ASTM (Amerikan Test ve Malzeme Derneği)",
+        "DIN (Alman Standardları Enstitüsü)",
+        "EN (Avrupa Standartları)",
+        "ASME (Amerikan Makine Mühendisleri Derneği)",
+        "BS (İngiliz Standartları)",
+        "JIS (Japon Endüstri Standartları)"
+      ]
+    }
+  },
+  "contactPage": {
+    "title": "İletişime Geçin",
+    "subtitle": "Boru bağlantı elemanı ihtiyaçlarınızda size yardımcı olmak için buradayız. Bize ulaşın!",
+    "form": {
+      "title": "Bize Mesaj Gönderin",
+      "name": "Ad Soyad",
+      "namePlaceholder": "Adınız Soyadınız",
+      "email": "E-posta Adresi",
+      "emailPlaceholder": "eposta.adresiniz@ornek.com",
+      "subject": "Konu",
+      "subjectPlaceholder": "Soruşturma konusu...",
+      "message": "Mesaj",
+      "messagePlaceholder": "Detaylı mesajınız...",
+      "submit": "Mesaj Gönder",
+      "submitting": "Gönderiliyor...",
+      "success": "Teşekkürler! Mesajınız başarıyla gönderildi.",
+      "error": "Bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+    },
+    "directContact": {
+      "title": "Doğrudan İletişim",
+      "address": "Ofisimiz",
+      "addressDetails": "Yukarı Mahalle, Sanayi Caddesi No:45, 34865 Kartal/İstanbul, Türkiye",
+      "phone": "Telefon",
+      "whatsapp": "WhatsApp",
+      "email": "E-posta"
+    },
+    "mapTitle": "Bizi Burada Bulun"
+  },
+  "blogPage": {
+    "title": "Eurofit Piping Blog ve Haberler",
+    "subtitle": "Boru bağlantı elemanları teknolojisi ve sektör trendleri hakkında görüşler, güncellemeler ve makaleler.",
+    "backTitle": "Bloga Dön",
+    "readTitle": "Devamını Oku",
+    "noPosts": "Şu anda blog yazısı bulunmamaktadır. Yakında tekrar kontrol edin!",
+    "readMore": "Devamını Oku",
+    "authorDefault": "Eurofit Ekibi",
+    "posts": {
+      "cuanife-marine": {
+        "title": "CuNiFe Bağlantı Elemanları Denizcilik Uygulamalarını Nasıl İyileştirir",
+        "excerpt": "Zorlu tuzlu su ortamlarında CuNiFe bağlantı elemanlarının olağanüstü korozyon direnci ve dayanıklılığını keşfedin."
+      },
+      "cold-forming-vs-welding": {
+        "title": "Boru Bağlantı Elemanlarında Soğuk Şekillendirme vs. Geleneksel Kaynak",
+        "excerpt": "Boru bağlantı elemanları üretiminde soğuk şekillendirme ve kaynağın karşılaştırmalı incelemesi, modern tekniklerin avantajlarını vurgular."
+      },
+      "cnc-integration-2025": {
+        "title": "Eurofit'te Yeni CNC Entegrasyonu (2025 Güncellemesi)",
+        "excerpt": "Eurofit Piping, gelişmiş CNC işleme yeteneklerinin entegrasyonu ile hassasiyet ve verimliliği artırır."
+      }
+    }
+  },
+  "galleryPage": {
+    "title": "Fotoğraf Galerisi",
+    "subtitle": "Modern tesisimizi, gelişmiş üretim süreçlerimizi ve özveri ile çalışan ekibimizi keşfedin.",
+    "viewAllPhotos": "Tüm Fotoğrafları Görüntüle",
+    "categories": {
+      "all": "Tüm Fotoğraflar",
+      "facility": "Tesis",
+      "production": "Üretim",
+      "team": "Ekip",
+      "products": "Ürünler"
+    },
+    "images": {
+      "facility1": {
+        "title": "Modern Endüstriyel Tesis",
+        "description": "Optimal üretim verimliliği ve güvenlik için tasarlanmış, Kartal, İstanbul'da bulunan son teknoloji üretim tesisimiz."
+      },
+      "facility2": {
+        "title": "Ana Üretim Deposu",
+        "description": "Maksimum operasyonel verimlilik için yüksek tavanlar ve organize iş akışı alanları ile geniş üretim deposu."
+      },
+      "facility3": {
+        "title": "Ofis ve İdari Alan",
+        "description": "İdari ve mühendislik ekiplerimizin projeler ve müşteri çözümleri üzerinde işbirliği yaptığı modern ofis alanları."
+      },
+      "facility4": {
+        "title": "Kalite Kontrol Laboratuvarı",
+        "description": "Malzeme ve ürün doğrulaması için hassas enstrümanlarla donatılmış gelişmiş test ve kalite kontrol laboratuvarı."
+      },
+      "production1": {
+        "title": "Soğuk Şekillendirme Pres Makinesi",
+        "description": "Üstün mukavemet ve hassasiyet için metali oda sıcaklığında şekillendiren özel soğuk şekillendirme pres makinelerimiz."
+      },
+      "production2": {
+        "title": "CNC İşleme Merkezi",
+        "description": "Sıkı toleranslarla hassas bitirme ve özel parça üretimi için gelişmiş CNC işleme merkezleri."
+      },
+      "production3": {
+        "title": "Otomatik Üretim Hattı",
+        "description": "Tutarlı kalite ve verimli üretim süreçleri için otomatik sistemlerle düzenlenmiş üretim hattı."
+      },
+      "production4": {
+        "title": "Kalite Muayene İstasyonu",
+        "description": "Her ürünün sevkiyat öncesi titiz testlerden geçtiği özel kalite muayene istasyonları."
+      },
+      "production5": {
+        "title": "Hammadde Depolama",
+        "description": "Alüminyum, paslanmaz çelik ve CuNiFe alaşımları dahil hammaddeler için organize depolama alanı."
+      },
+      "team1": {
+        "title": "Yönetim Ekibi Toplantısı",
+        "description": "Stratejik kararlar ve sürekli iyileştirme girişimleri üzerinde işbirliği yapan liderlik ekibimiz."
+      },
+      "team2": {
+        "title": "Üretim Teknisyenleri",
+        "description": "Gelişmiş makinelerimizi uzmanlık ve detaylara dikkat ile çalıştıran yetenekli teknisyenler."
+      },
+      "team3": {
+        "title": "Kalite Kontrol Ekibi",
+        "description": "Her ürünün yüksek standartlarımızı ve müşteri spesifikasyonlarını karşılamasını sağlayan özel kalite kontrol mühendisleri."
+      },
+      "team4": {
+        "title": "Mühendislik Ekibi İşbirliği",
+        "description": "Ürün geliştirme ve süreç optimizasyonu üzerinde birlikte çalışan mühendislik ekibimiz."
+      },
+      "products1": {
+        "title": "Bitmiş Boru Bağlantı Elemanları Sergisi",
+        "description": "Dünya çapındaki müşterilere sevkiyat için hazır yüksek kaliteli bitmiş boru bağlantı elemanlarımızdan bir seçki."
+      },
+      "products2": {
+        "title": "CuNiFe Boru Bağlantı Elemanları",
+        "description": "Denizcilik ve endüstriyel uygulamalar için mükemmel korozyon direncine sahip premium CuNiFe boru bağlantı elemanları."
+      },
+      "products3": {
+        "title": "Paslanmaz Çelik Bağlantı Elemanları",
+        "description": "Zorlu endüstriyel ve ticari uygulamalar için hassas üretilmiş paslanmaz çelik boru bağlantı elemanları."
+      }
+    }
+  }
+}
