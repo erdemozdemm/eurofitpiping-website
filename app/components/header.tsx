@@ -44,7 +44,7 @@ export default function Header() {
       <div className="container mx-auto flex h-16 max-w-screen-2xl items-center justify-between px-4 sm:px-6 lg:px-8">
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2 flex-shrink-0">
-          <Image src="images/eurofitlogo.png" alt="Eurofit Piping Logo" width={120} height={60} />
+        <img src="/images/eurofitlogo.png" alt="Eurofit Piping Logo" width="120" height="60" />
           <span className="font-bold text-lg xl:text-xl text-industrial-blue whitespace-nowrap">Eurofit Piping</span>
         </Link>
 
